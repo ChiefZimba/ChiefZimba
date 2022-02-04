@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChiefZimba
+- 👋 Hi, I’m Fadal
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python 
 - 📫 Khalfad159@gmail.com
