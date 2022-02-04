@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChiefZimba
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning python 
+- 📫 Khalfad159@gmail.com
